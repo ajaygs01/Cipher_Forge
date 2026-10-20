@@ -142,14 +142,14 @@ export const Sidebar: React.FC<SidebarProps> = ({
 
           <div className="space-y-1 pt-1 border-t border-zinc-800/80 text-[11px]">
             <a
-              href="https://github.com/ajaygs01/CipherForge"
+              href="https://github.com/ajaygs01/Cipher_Forge"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-1.5 text-zinc-300 hover:text-orange-400 transition-colors"
               title="CipherForge GitHub Repository"
             >
               <Github className="h-3.5 w-3.5 text-orange-500 shrink-0" />
-              <span className="font-mono text-[10px] truncate">github.com/ajaygs01/CipherForge</span>
+              <span className="font-mono text-[10px] truncate">github.com/ajaygs01/Cipher_Forge</span>
               <ExternalLink className="h-2.5 w-2.5 ml-auto text-zinc-500" />
             </a>
 

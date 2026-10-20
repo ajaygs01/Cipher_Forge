@@ -5,9 +5,9 @@
   "description": "CipherForge: Next-Generation Three-Tier Cryptographic Workbench & Zero-Knowledge Security Engine",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ajaygs01/CipherForge.git"
+    "url": "https://github.com/ajaygs01/Cipher_Forge.git"
   },
-  "homepage": "https://github.com/ajaygs01/CipherForge#readme",
+  "homepage": "https://github.com/ajaygs01/Cipher_Forge#readme",
   "type": "module",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",

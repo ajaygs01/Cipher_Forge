@@ -7,7 +7,7 @@
 [![Vite: 6+](https://img.shields.io/badge/Vite-6+-646CFF.svg)](https://vitejs.dev/)
 [![Tailwind CSS: v4](https://img.shields.io/badge/Tailwind-v4-38B2AC.svg)](https://tailwindcss.com/)
 [![NIST Standards](https://img.shields.io/badge/Standards-NIST%20FIPS%20180--4%20%7C%20SP%20800--38D-emerald.svg)](https://csrc.nist.gov/)
-[![GitHub: CipherForge](https://img.shields.io/badge/GitHub-ajaygs01%2FCipherForge-orange.svg)](https://github.com/ajaygs01/CipherForge)
+[![GitHub: Cipher_Forge](https://img.shields.io/badge/GitHub-ajaygs01%2FCipher__Forge-orange.svg)](https://github.com/ajaygs01/Cipher_Forge)
 
 ---
 
@@ -88,7 +88,7 @@ CipherForge bridges the gap between theoretical cryptography and real-world high
 
 ```bash
 # Clone the repository
-git clone https://github.com/ajaygs01/CipherForge.git
+git clone https://github.com/ajaygs01/Cipher_Forge.git
 
 # Navigate to the project directory
 cd CipherForge
@@ -133,7 +133,7 @@ npm run lint
 | **Department** | Department of Information Science & Engineering (ISE) |
 | **Institution** | HKBK College of Engineering, Bengaluru |
 | **University** | Visvesvaraya Technological University (VTU), Belagavi |
-| **Repository** | [https://github.com/ajaygs01/CipherForge](https://github.com/ajaygs01/CipherForge) |
+| **Repository** | [https://github.com/ajaygs01/Cipher_Forge](https://github.com/ajaygs01/Cipher_Forge) |
 
 ---
 

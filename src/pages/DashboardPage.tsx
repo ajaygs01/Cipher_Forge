@@ -154,13 +154,13 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({ setActiveTab, open
             </span>
             <span className="text-zinc-600">|</span>
             <a
-              href="https://github.com/ajaygs01/CipherForge"
+              href="https://github.com/ajaygs01/Cipher_Forge"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:underline flex items-center gap-1 text-zinc-200 bg-zinc-900/90 px-2.5 py-1 rounded-lg border border-zinc-700/80 hover:border-orange-500/50 transition-colors"
             >
               <Github className="h-3 w-3 text-orange-400" />
-              <span>github.com/ajaygs01/CipherForge</span>
+              <span>github.com/ajaygs01/Cipher_Forge</span>
             </a>
             <span className="text-zinc-600">|</span>
             <a
@@ -215,7 +215,7 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({ setActiveTab, open
             </LiquidButton>
 
             <a
-              href="https://github.com/ajaygs01/CipherForge"
+              href="https://github.com/ajaygs01/Cipher_Forge"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-xl border border-zinc-800 bg-zinc-900/80 px-4 py-2 text-xs font-bold text-zinc-300 hover:text-white hover:border-zinc-700 transition-colors"
@@ -465,13 +465,13 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({ setActiveTab, open
             </a>
             <span className="text-zinc-600">·</span>
             <a
-              href="https://github.com/ajaygs01/CipherForge"
+              href="https://github.com/ajaygs01/Cipher_Forge"
               target="_blank"
               rel="noopener noreferrer"
               className="text-orange-400 hover:underline flex items-center gap-1 font-semibold"
             >
               <Github className="h-3.5 w-3.5" />
-              <span>github.com/ajaygs01/CipherForge</span>
+              <span>github.com/ajaygs01/Cipher_Forge</span>
             </a>
             <span className="text-zinc-600">·</span>
             <a href="mailto:gsajay18@gmail.com" className="hover:text-white transition-colors">

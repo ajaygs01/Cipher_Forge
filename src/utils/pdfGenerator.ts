@@ -76,7 +76,7 @@ export function generateSingleRecordPDF(record: AuditRecord): void {
   doc.setFont('helvetica', 'normal');
   doc.setFontSize(8.5);
   doc.setTextColor(71, 85, 105);
-  doc.text('Developer: Ajay G S  |  GitHub: github.com/ajaygs01/CipherForge  |  Tel: 9686352137', 18, 60);
+  doc.text('Developer: Ajay G S  |  GitHub: github.com/ajaygs01/Cipher_Forge  |  Tel: 9686352137', 18, 60);
   doc.text('Department of Information Science & Engineering, HKBK College of Engineering', 18, 65);
 
   // Section 1: Executive Telemetry Summary

@@ -28,7 +28,7 @@ const DEFAULT_USER: UserProfile = {
   firstName: 'Ajay',
   lastName: 'G S',
   phoneNumber: '9686352137',
-  github: 'https://github.com/ajaygs01/CipherForge',
+  github: 'https://github.com/ajaygs01/Cipher_Forge',
   college: 'HKBK College of Engineering',
   department: 'Information Science & Engineering',
   isVerified: true,
@@ -52,7 +52,7 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
           lastName: 'G S',
           email: 'gsajay18@gmail.com',
           phoneNumber: '9686352137',
-          github: 'https://github.com/ajaygs01/CipherForge',
+          github: 'https://github.com/ajaygs01/Cipher_Forge',
         };
         delete (updated as any).usn;
         return updated;
@@ -83,7 +83,7 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
       email: isEmail ? trimmedId : user?.email || 'gsajay18@gmail.com',
       phoneNumber: !isEmail ? trimmedId : user?.phoneNumber || '9686352137',
       fullName: user?.fullName || nameVal,
-      github: 'https://github.com/ajaygs01/CipherForge',
+      github: 'https://github.com/ajaygs01/Cipher_Forge',
       isVerified: true,
     };
 
@@ -122,7 +122,7 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
       firstName: firstName.trim(),
       lastName: lastName.trim(),
       phoneNumber: phoneNumber.trim(),
-      github: 'https://github.com/ajaygs01/CipherForge',
+      github: 'https://github.com/ajaygs01/Cipher_Forge',
       college: 'HKBK College of Engineering',
       department: 'Information Science & Engineering',
       isVerified: true,

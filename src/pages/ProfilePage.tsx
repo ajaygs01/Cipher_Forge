@@ -121,13 +121,13 @@ export const ProfilePage: React.FC = () => {
               <div>
                 <span className="text-[11px] text-zinc-500">CipherForge Repository</span>
                 <a
-                  href="https://github.com/ajaygs01/CipherForge"
+                  href="https://github.com/ajaygs01/Cipher_Forge"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-1.5 text-orange-400 font-mono hover:underline mt-0.5"
                 >
                   <Github className="h-3.5 w-3.5" />
-                  <span>github.com/ajaygs01/CipherForge</span>
+                  <span>github.com/ajaygs01/Cipher_Forge</span>
                   <ExternalLink className="h-2.5 w-2.5 text-zinc-500" />
                 </a>
               </div>

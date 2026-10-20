@@ -168,7 +168,7 @@ export const Navbar: React.FC<NavbarProps> = ({
 
           {/* GitHub Repository Link */}
           <a
-            href="https://github.com/ajaygs01/CipherForge"
+            href="https://github.com/ajaygs01/Cipher_Forge"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden sm:flex items-center gap-1.5 rounded-lg border border-zinc-800 bg-zinc-900 px-2.5 py-1.5 text-xs font-semibold text-zinc-300 hover:border-orange-500/50 hover:text-white transition-colors"
@@ -205,7 +205,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                   </div>
                   <div className="mt-2 space-y-1">
                     <a
-                      href="https://github.com/ajaygs01/CipherForge"
+                      href="https://github.com/ajaygs01/Cipher_Forge"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex w-full items-center justify-between rounded-lg px-2.5 py-1.5 text-xs text-zinc-300 hover:bg-zinc-900 hover:text-white"

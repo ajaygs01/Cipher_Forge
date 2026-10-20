@@ -37,7 +37,7 @@ export const ProjectReportModal: React.FC<ProjectReportModalProps> = ({ isOpen, 
                 <span>VISVESVARAYA TECHNOLOGICAL UNIVERSITY (VTU) CAPSTONE REPORT</span>
               </h2>
               <p className="text-xs text-zinc-400">
-                Ajay G S · Phone: 9686352137 · GitHub: github.com/ajaygs01/CipherForge · Guided by Prof. Syeda Ayesha Amreen · HKBK College of Engineering
+                Ajay G S · Phone: 9686352137 · GitHub: github.com/ajaygs01/Cipher_Forge · Guided by Prof. Syeda Ayesha Amreen · HKBK College of Engineering
               </p>
             </div>
           </div>
@@ -133,12 +133,12 @@ export const ProjectReportModal: React.FC<ProjectReportModalProps> = ({ isOpen, 
                     <span className="text-[11px] text-zinc-400">Developer</span>
                     <p className="mt-1 text-xs font-bold text-white">Ajay G S</p>
                     <a
-                      href="https://github.com/ajaygs01/CipherForge"
+                      href="https://github.com/ajaygs01/Cipher_Forge"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-[10px] text-orange-400 font-mono hover:underline block truncate"
                     >
-                      github.com/ajaygs01/CipherForge
+                      github.com/ajaygs01/Cipher_Forge
                     </a>
                   </div>
                   <div className="rounded-xl border border-zinc-800 bg-zinc-900/60 p-3">
